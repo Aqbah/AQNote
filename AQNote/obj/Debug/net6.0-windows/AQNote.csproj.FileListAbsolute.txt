@@ -1,0 +1,17 @@
+E:\Aqbah\DSE\AQNote\AQNote\bin\Debug\net6.0-windows\AQNote.exe
+E:\Aqbah\DSE\AQNote\AQNote\bin\Debug\net6.0-windows\AQNote.deps.json
+E:\Aqbah\DSE\AQNote\AQNote\bin\Debug\net6.0-windows\AQNote.runtimeconfig.json
+E:\Aqbah\DSE\AQNote\AQNote\bin\Debug\net6.0-windows\AQNote.dll
+E:\Aqbah\DSE\AQNote\AQNote\bin\Debug\net6.0-windows\AQNote.pdb
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.csproj.AssemblyReference.cache
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.Form1.resources
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.csproj.GenerateResource.cache
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.AssemblyInfoInputs.cache
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.AssemblyInfo.cs
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.csproj.CoreCompileInputs.cache
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.dll
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\refint\AQNote.dll
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.pdb
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\AQNote.genruntimeconfig.cache
+E:\Aqbah\DSE\AQNote\AQNote\obj\Debug\net6.0-windows\ref\AQNote.dll
